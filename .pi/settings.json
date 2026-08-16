@@ -1,5 +1,5 @@
 {
 	"defaultProvider": "deepseek",
-	"defaultModel": "deepseek-v4-pro",
-	"enabledModels": ["deepseek/deepseek-v4-pro", "deepseek/deepseek-v4-flash"]
+	"defaultModel": "deepseek-v4-flash",
+	"enabledModels": ["deepseek/deepseek-v4-flash", "deepseek/deepseek-v4-pro"]
 }
